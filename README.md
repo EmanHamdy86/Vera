@@ -1,6 +1,8 @@
 # Vera
 skin care project
-https://docs.google.com/presentation/d/1YREoW06f2iLktTn9K11xRjzLx3ZY6YKu/edit?usp=sharing&ouid=117314306840948995830&rtpof=true&sd=true
-https://docs.google.com/presentation/d/1Pjf_fTTtWDbpy5Sb4xxhGt2d9leooWVk/edit#slide=id.p1
-https://docs.google.com/presentation/d/1qhKpFXyr8Tia58BNfeYOPp4q2qF09E-uPRAFWH8rZ-Y/edit#slide=id.p1
-https://docs.google.com/presentation/d/1vO3lGPenyDyUUsK-QhTtBNknogqFr2Cs6oo8qHfe8uY/edit#slide=id.p1
+https://docs.google.com/presentation/d/1AX6XJsaZ977E0UNDXZ7_e_PZtwXH_Wps/edit?usp=sharing&ouid=100739731425818494221&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1BbxRj3BR5bhAhBaHxSHkOI1JaGuDT-H4/edit?usp=sharing&ouid=100739731425818494221&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1IJX2VzLHbLYOGNJUU-orAcFeMh8E5jCX/edit?usp=sharing&ouid=100739731425818494221&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1QPnLc9ZDCgPXsqqFOZBrILGrYtDsF9hK/edit?usp=sharing&ouid=100739731425818494221&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1LGc1IBvCM_YjzIJio6Iwufr20jVB5Kz4/edit?usp=sharing&ouid=100739731425818494221&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1nPuEFd6LfpZx4nJPp4zwMtTs9xcCLxsy/edit?usp=sharing&ouid=100739731425818494221&rtpof=true&sd=true
